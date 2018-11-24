@@ -1,5 +1,5 @@
 **/credentials.*
-**/t    arget/
+**/target/
 /s4hana_pipeline
 **/*.log
 **/*.trc
